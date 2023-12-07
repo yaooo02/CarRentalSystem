@@ -1,0 +1,4 @@
+C01	Saga	Proton	5	100	Available	
+C02	Sonata	Hyundai	5	270	Available	
+C03	Ranger	Ford	5	350	Unavailable
+C04	Bezza	Perodua	5	120	Available
